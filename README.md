@@ -5,7 +5,7 @@
 
 ### Welcome to the Personal ToDo List Application..! - developed by ([@xodivorce](https://instagram.com/xodivorce)) 📝✨
 [![status](https://img.shields.io/badge/status-active-brightgreen.svg?style=flat)](https://github.com/xodivorce/xodivorce-portfolio/)
-[![version](https://img.shields.io/badge/version-v1.0.0-yellow.svg?style=flat)](https://github.com/xodivorce/xodivorce-portfolio/)
+[![version](https://img.shields.io/badge/version-v1.0.1-yellow.svg?style=flat)](https://github.com/xodivorce/xodivorce-portfolio/)
 [![PRs](https://img.shields.io/badge/PRs-welcome-blue.svg?style=flat)](https://github.com/xodivorce/xodivorce-portfolio/)
 <br></br>
 
@@ -18,10 +18,8 @@ Here’s what fuels this site:
 ### 🛠️ How to Use:
 
 Ready to contribute? Follow these steps to get started:
-
-1. **Fork and Clone the Repository**
-   - Click the “Fork” button at the top-right to create your own copy.
-   - Clone your forked repository to your local machine:
+1. **Clone the Repository**
+   - Clone the repository to your local machine:
      ```bash
      git clone git@github.com:xodivorce/personal_to_do_list_application.git
      ```
@@ -47,7 +45,8 @@ Don’t be shy! [*Open an issue*](https://github.com/xodivorce/personal_to_do_li
 
 ### 📝 License & Usage
 
-This project is licensed under the [**MIT License**](LICENSE.txt). You are free to use, modify, and distribute the code as permitted by the MIT License.
+This project is licensed under the [**MIT License**](LICENSE.txt).  
+You are free to use, modify, and distribute this code for personal or commercial purposes, as long as you include the original copyright and license notice in any copies or substantial portions of the software.
 
 **🌟 Like this project? Please consider giving it a star to show your support!**
 
