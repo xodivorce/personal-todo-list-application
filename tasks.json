@@ -1,0 +1,65 @@
+[
+    {
+        "title": "Read a book.",
+        "description": "Read 20 pages of Hunting Adeline.",
+        "category": "Reading",
+        "due_date": "Dec 18, 2024",
+        "completed": true
+    },
+    {
+        "title": "Exercise.",
+        "description": "Go for a 30-minute run.",
+        "category": "Fitness",
+        "due_date": "Jun 2, 2024",
+        "completed": true
+    },
+    {
+        "title": "Call mom.",
+        "description": "Call mom back and have a chat.",
+        "category": "Family",
+        "due_date": "Jun 20, 2024",
+        "completed": false
+    },
+    {
+        "title": "Grocery shopping.",
+        "description": "Buy vegetables and fruits for the week.",
+        "category": "Personal",
+        "due_date": "Jul 15, 2024",
+        "completed": false
+    },
+    {
+        "title": "Pay bills.",
+        "description": "Pay electricity and internet bills.",
+        "category": "Finance",
+        "due_date": "Aug 3, 2024",
+        "completed": true
+    },
+    {
+        "title": "Clean room.",
+        "description": "Organize and clean your bedroom.",
+        "category": "Personal",
+        "due_date": "Sep 10, 2024",
+        "completed": false
+    },
+    {
+        "title": "Plan weekend trip.",
+        "description": "Research and plan activities for the weekend getaway.",
+        "category": "Personal",
+        "due_date": "Oct 21, 2024",
+        "completed": true
+    },
+    {
+        "title": "Watching porn.",
+        "description": "Basic human needs.",
+        "category": "Personal",
+        "due_date": "Jul 18, 2025",
+        "completed": false
+    },
+    {
+        "title": "Need a 1.5h break",
+        "description": "Just hangout with one of my friend(client).",
+        "category": "Projects",
+        "due_date": "Jul 18, 2025",
+        "completed": true
+    }
+]
